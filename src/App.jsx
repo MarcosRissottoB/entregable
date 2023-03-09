@@ -3,7 +3,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Elige un color</h1>
+      <h1>Elige un tema</h1>
       <form>{/* aqui deberias escribir tu codigo */}</form>
     </div>
   );
